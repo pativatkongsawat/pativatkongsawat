@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratiwet Kongsawat</h1>
-<h3 align="center">A passionate backend developer from Thailand</h3>
+<h3 align="center">A passionate new graduate who loves backend development and ai enchantment assiatant from Thailand</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
