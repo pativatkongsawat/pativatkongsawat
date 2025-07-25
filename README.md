@@ -13,9 +13,14 @@
 
 
 # 📊 GitHub Stats:
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <img style="margin: 10px;" src="https://github-readme-stats.vercel.app/api?username=pativatkongsawat&theme=default&hide_border=false&include_all_commits=false&count_private=false" />
+  <img style="margin: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pativatkongsawat&layout=compact&theme=default&hide_border=false" />
+</div>
+
+<!-- Row 2: Streak Stats -->
 <div align="center">
-  <img style="margin-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=pativatkongsawat&theme=default&hide_border=false&include_all_commits=false&count_private=false" />
-  <img style="margin-right: 10px;" src="https://visitcount.itsvg.in/api?id=pativatkongsawat&icon=0&color=0" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=pativatkongsawat&theme=default&hide_border=false" />
 </div>
 
