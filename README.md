@@ -16,7 +16,7 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
   <img style="margin: 10px;" src="https://github-readme-stats.vercel.app/api?username=pativatkongsawat&theme=default&hide_border=false&include_all_commits=false&count_private=false" />
-  <img style="margin: 8px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pativatkongsawat&layout=compact&theme=default&hide_border=false" />
+  <img style="margin: 2px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pativatkongsawat&layout=compact&theme=default&hide_border=false" />
 </div>
 
 <!-- Row 2: Streak Stats -->
