@@ -13,12 +13,14 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pativatkongsawat&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=pativatkongsawat&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=pativatkongsawat&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=pativatkongsawat&theme=default&hide_border=false)<br/>
 [![](https://visitcount.itsvg.in/api?id=pativatkongsawat&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pativatkongsawat&show_icons=true&locale=en&layout=compact" alt="pativatkongsawat" /></p>
+
+
 
